@@ -13,7 +13,7 @@ We invited specific users to our github organisation account. We specify users b
 Please follow the steps below to check you are using the correct user:
 * visit https://github.com/settings/emails
 * verify can you see on the email list one of the emails above. The email list is:
-![](https://github.com/GPDQ/help/blob/master/Screen%20Shot%202017-10-04%20at%2010.25.08.png)
+![](https://github.com/GPDQ/help/blob/master/imgs/Screen%20Shot%202017-10-04%20at%2010.25.08.png)
 
 **If the email we invited is not on the list, you will not have access to the repo.**
 
@@ -25,15 +25,15 @@ To accept the invitation and join our organisation please:
 * visit https://github.com/GPDQ
 
 You should see the pending invitation information on top:
-![](https://github.com/GPDQ/help/blob/master/2017-10-04.png)
+![](https://github.com/GPDQ/help/blob/master/imgs/2017-10-04.png)
 
 **If you do not see the pending invitation information, follow the "Verify you are using a correct user" part of this help article**
 
 * Please click the "View invitation" button. You should see the screen where you can accept the invite:
-![](https://github.com/GPDQ/help/blob/master/2017-10-04%20(1).png)
+![](https://github.com/GPDQ/help/blob/master/imgs/2017-10-04%20(1).png)
 
 * After you accept the invitation, you should have full access to our repos and see:
-![](https://github.com/GPDQ/help/blob/master/2017-10-04%20(2).png)
+![](https://github.com/GPDQ/help/blob/master/imgs/2017-10-04%20(2).png)
 
 **You are all set! Congratulations!**
 
